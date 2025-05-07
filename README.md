@@ -9,6 +9,6 @@ The functions can be cattegorized as such:
 * A function ending with the word *Neutral* will have a randomized gender.
 * A function ending with either *Male* or *Female* will have the respective gender.
 * If *Initial* follows a word in the function name, that part of the name will be initialized, e.g. Morris R may be produced by FirstLastInitialNeutral()
-* Finaly, CompleteRand() will produce names of varied length, and varied initialization.
+* Finaly, CompleteRand() will produce names of varied length, varied gender, and varied initialization.
 
 Feel free to add more names to the lists.
