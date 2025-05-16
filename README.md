@@ -19,7 +19,7 @@ func main () {
     }
 }
 ```
-The functions can be cattegorized as such:
+The functions are named in accordance to the following method:
 * A function starting with the word *Full* will include a first name, middle name, and sirname.
 * A function staring with the words *FirstLast* will inlude a first name, and a sirname, while excluding a middle name.
 * A function starting with the word *First* will only be a first name.
